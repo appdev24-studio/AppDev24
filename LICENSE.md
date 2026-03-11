@@ -1,6 +1,11 @@
-MIT License
+# MIT License
 
-Copyright (c) 2026 AppDev24
+Copyright © 2026 AppDev24(appdev24-studio)
+- [Mail](mailto:appdev.studio.24@gmail.com)
+- [X](https://x.com/AppDev24_studio)
+- [Figma](https://www.figma.com/@appdev24studio)
+- [Notion](https://www.notion.so/@appdev24_studio)
+- [YouTube](https://www.youtube.com/@appdev24_studio)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
